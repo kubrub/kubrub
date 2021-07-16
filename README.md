@@ -2,7 +2,7 @@
 - 👀 I'm interested in music, taking photos and traveling
 - 🌱 I’m currently learning Python and Web Development
 - 👾I'm 19 y.o.🎉
-- 👾I'm live in Lviv, Ukraine🇺🇦
+- 👾I live in Lviv, Ukraine🇺🇦
 - 👾I'm a speedcuber🎲
 - 👾I'm LNU student🗒
 - 👾I'm Programmer👩‍💻
