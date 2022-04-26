@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kubrub
-- 👀 I'm interested in music, taking photos and traveling
-- 🌱 I’m currently learning Python and Web Development
+- 👀 I'm interested in music, good and tasty coffee, taking photos and traveling 
+- 🌱 I’m currently learning Python, Java and Web Development 
 - 👾I'm 19 y.o.🎉
 - 👾I live in Lviv, Ukraine🇺🇦
 - 👾I'm a speedcuber🎲
